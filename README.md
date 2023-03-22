@@ -2,6 +2,16 @@
 # 一個使用Flask框架和DALLE模型官方API，創造一個linebot，快速建置於平台Railway。
 
 
+<div align="center">
+  <img src="demo/demo1d.png" width="300"/>
+</div>
+<div align="center">
+  <img src="demo/demo2d.png" width="300"/>
+</div>
+<div align="center">
+  <img src="demo/demo3d.png" width="300"/>
+</div>
+
 ## [TelegramBot Vercel GPT3.5 turbo/ChatGPT版本部署](https://github.com/pyfbsdk59/Flask-official-ChatGPT-TelegramBot-Vercel)
 
 <div align="center">
